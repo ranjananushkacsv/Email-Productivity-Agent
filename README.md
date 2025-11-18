@@ -48,5 +48,8 @@ A prompt-driven intelligent email assistant that uses AI to automatically catego
    streamlit run app.py
   '''
   ## Screenshots
-  
-  
+
+  ![Email Inbox](https://github.com/ranjananushkacsv/Email-Productivity-Agent/blob/main/Screenshot/Screenshot%202025-11-18%20232847.png)
+  ![Prompt Brain](https://github.com/ranjananushkacsv/Email-Productivity-Agent/blob/main/Screenshot/Screenshot%202025-11-18%20232915.png)
+  ![Email Agent](https://github.com/ranjananushkacsv/Email-Productivity-Agent/blob/main/Screenshot/Screenshot%202025-11-18%20233114.png)
+  ![Draft Composer](https://github.com/ranjananushkacsv/Email-Productivity-Agent/blob/main/Screenshot/Screenshot%202025-11-18%20233140.png)
