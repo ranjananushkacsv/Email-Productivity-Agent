@@ -1,5 +1,11 @@
 # Email Productivity Agent
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Gemini Pro](https://img.shields.io/badge/Google_Gemini_Pro-AI_Model-orange?logo=google)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
+![Gmail API](https://img.shields.io/badge/Gmail_API-Integration-green?logo=gmail)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A prompt-driven intelligent email assistant that uses AI to automatically categorize, process, and manage your inbox based on customizable instructions.
 
 ## Features
